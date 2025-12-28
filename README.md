@@ -1,2 +1,3 @@
 # next-js-blog
-A blog application built with Next.js demonstrating static site generation and dynamic routing
+A modern, fast blog built with Next.js featuring static site generation and markdown support.
+
